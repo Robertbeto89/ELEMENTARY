@@ -1,0 +1,390 @@
+#EXTM3U
+
+#EXTINF:-1, CAP 18 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/02x18.mkv
+#EXTINF:-1, CAP 19 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/02x19.mkv
+#EXTINF:-1, CAP 20 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/02x20.mkv
+#EXTINF:-1, CAP 21 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/02x21.mkv
+#EXTINF:-1, CAP 22 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/02x22.mkv
+#EXTINF:-1, CAP 23 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/02x23.mkv
+#EXTINF:-1, CAP 24 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/02x24.mkv
+#EXTINF:-1, T3 CAP 1 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x01.mkv
+#EXTINF:-1, T3 CAP 2 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x02.mkv
+#EXTINF:-1, T3 CAP 3 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x03.mkv
+#EXTINF:-1, T3 CAP 4 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x04.mkv
+#EXTINF:-1, T3 CAP 5 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x05.mkv
+#EXTINF:-1, T3 CAP 6 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x06.mkv
+#EXTINF:-1, T3 CAP 7 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x07.mkv
+#EXTINF:-1, T3 CAP 8 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x08.mkv
+#EXTINF:-1, T3 CAP 9 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x09.mkv
+#EXTINF:-1, T3 CAP 10 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x10.mkv
+#EXTINF:-1, T3 CAP 11 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x11.mkv
+#EXTINF:-1, T3 CAP 12 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x12.mkv
+#EXTINF:-1, T3 CAP 13 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x13.mkv
+#EXTINF:-1, T3 CAP 14 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x14.mkv
+#EXTINF:-1, T3 CAP 15 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x15.mkv
+#EXTINF:-1, T3 CAP 16 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x16.mkv
+#EXTINF:-1, T3 CAP 17 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x17.mkv
+#EXTINF:-1, T3 CAP 18 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x18.mkv
+#EXTINF:-1, T3 CAP 19 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x19.mkv
+#EXTINF:-1, T3 CAP 20 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x20.mkv
+#EXTINF:-1, T3 CAP 21 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x21.mkv
+#EXTINF:-1, T3 CAP 22 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x22.mkv
+#EXTINF:-1, T3 CAP 23 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x23.mkv
+#EXTINF:-1, T3 CAP 24 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/03x24.mkv
+#EXTINF:-1, T4 CAP 1 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x01.mkv
+#EXTINF:-1, T4 CAP 2 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x02.mkv
+#EXTINF:-1, T4 CAP 3 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x03.mkv
+#EXTINF:-1, T4 CAP 4 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x04.mkv
+#EXTINF:-1, T4 CAP 5 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x05.mkv
+#EXTINF:-1, T4 CAP 6 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x06.mkv
+#EXTINF:-1, T4 CAP 7 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x07.mkv
+#EXTINF:-1, T4 CAP 8 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x08.mkv
+#EXTINF:-1, T4 CAP 9 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x09.mkv
+#EXTINF:-1, T4 CAP 10 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x10.mkv
+#EXTINF:-1, T4 CAP 11 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x11.mkv
+#EXTINF:-1, T4 CAP 12 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x12.mkv
+#EXTINF:-1, T4 CAP 13 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x13.mkv
+#EXTINF:-1, T4 CAP 14 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x14.mkv
+#EXTINF:-1, T4 CAP 15 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x15.mkv
+#EXTINF:-1, T4 CAP 16 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x16.mkv
+#EXTINF:-1, T4 CAP 17 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x17.mkv
+#EXTINF:-1, T4 CAP 18 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x18.mkv
+#EXTINF:-1, T4 CAP 19 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x19.mkv
+#EXTINF:-1, T4 CAP 20 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x20.mkv
+#EXTINF:-1, T4 CAP 21 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x21.mkv
+#EXTINF:-1, T4 CAP 22 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x22.mkv
+#EXTINF:-1, T4 CAP 23 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x23.mkv
+#EXTINF:-1, T4 CAP 24 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/04x24.mkv
+#EXTINF:-1, T5 CAP 1 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x01.mkv
+#EXTINF:-1, T5 CAP 2 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x02.mkv
+#EXTINF:-1, T5 CAP 3 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x03.mkv
+#EXTINF:-1, T5 CAP 4 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x04.mkv
+#EXTINF:-1, T5 CAP 5 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x05.mkv
+#EXTINF:-1, T5 CAP 6 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x06.mkv
+#EXTINF:-1, T5 CAP 7 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x07.mkv
+#EXTINF:-1, T5 CAP 8 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x08.mkv
+#EXTINF:-1, T5 CAP 9 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x09.mkv
+#EXTINF:-1, T5 CAP 10 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x10.mkv
+#EXTINF:-1, T5 CAP 11 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x11.mkv
+#EXTINF:-1, T5 CAP 12 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x12.mkv
+#EXTINF:-1, T5 CAP 13 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x13.mkv
+#EXTINF:-1, T5 CAP 14 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x14.mkv
+#EXTINF:-1, T5 CAP 15 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x15.mkv
+#EXTINF:-1, T5 CAP 16 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x16.mkv
+#EXTINF:-1, T5 CAP 17 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x17.mkv
+#EXTINF:-1, T5 CAP 18 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x18.mkv
+#EXTINF:-1, T5 CAP 19 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x19.mkv
+#EXTINF:-1, T5 CAP 20 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x20.mkv
+#EXTINF:-1, T5 CAP 21 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x21.mkv
+#EXTINF:-1, T5 CAP 22 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x22.mkv
+#EXTINF:-1, T5 CAP 23 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/05x23.avi
+#EXTINF:-1, T6 CAP 1 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x01.avi
+#EXTINF:-1, T6 CAP 2 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x02.avi
+#EXTINF:-1, T6 CAP 3 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x03.avi
+#EXTINF:-1, T6 CAP 4 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x04.avi
+#EXTINF:-1, T6 CAP 5 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x05.avi
+#EXTINF:-1, T6 CAP 6 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x06.avi
+#EXTINF:-1, T6 CAP 7 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x07.avi
+#EXTINF:-1, T6 CAP 8 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x08.avi
+#EXTINF:-1, T6 CAP 9 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x09.avi
+#EXTINF:-1, T6 CAP 10 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x10.avi
+#EXTINF:-1, T6 CAP 11 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x11.avi
+#EXTINF:-1, T6 CAP 12 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x12.avi
+#EXTINF:-1, T6 CAP 13 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x13.avi
+#EXTINF:-1, T6 CAP 14 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x14.avi
+#EXTINF:-1, T6 CAP 15 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x15.avi
+#EXTINF:-1, T6 CAP 16 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x16.avi
+#EXTINF:-1, T6 CAP 17 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x17.avi
+#EXTINF:-1, T6 CAP 18 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x18.avi
+#EXTINF:-1, T6 CAP 19 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x19.avi
+#EXTINF:-1, T6 CAP 20 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x20.avi
+#EXTINF:-1, T6 CAP 21 ELEMENTARY
+http://fina.dyndns.tv/Series/Elementary/06x21.avi
+#EXTINF:-1, 18 Anni
+https://cotesex.com/no_comment/18_anni/nc18a--600-aac.mp4
+#EXTINF:-1, Amatrices
+https://cotesex.com/no_comment/amatrices_de_doubles/ncadd--600-aac.mp4
+#EXTINF:-1, Exhibitions
+https://cotesex.com/no_comment/exhibitions_au_soleil/nceas--600-aac.mp4
+#EXTINF:-1, Il Corpo
+https://cotesex.com/no_comment/il_corpo_della_ragazzina/ncicdr--600-aac.mp4
+#EXTINF:-1, Infermeres
+https://cotesex.com/no_comment/infirmieres_pour_urgences_de_nuit/ncipudn--600-aac.mp4
+#EXTINF:-1, La prima volta
+https://cotesex.com/no_comment/la_mia_prima_volta/nclmpv--600-aac.mp4
+#EXTINF:-1, Mondo di Malcom
+https://cotesex.com/no_comment/nel_mondo_di_malcom/ncnmdm--600-aac.mp4
+#EXTINF:-1, Piccole
+https://cotesex.com/no_comment/piccole_puttane_vendesi/ncppv--600-aac.mp4
+#EXTINF:-1, Ans toujours
+https://cotesex.com/lucy/20_ans_toujours_pucelle/20atp--600-aac.mp4
+#EXTINF:-1, Les petite
+https://cotesex.com/lucy/a_nous_les_petite_poilus_4/anlpp4f--600-aac.mp4
+#EXTINF:-1, Petite Poilus
+https://cotesex.com/lucy/a_nous_les_petite_poilus_5/anlpp5f--600-aac.mp4
+#EXTINF:-1, Rouquines
+https://cotesex.com/lucy/a_nous_les_petite_rouquines/anlprf--600-aac.mp4
+#EXTINF:-1, Anal Maniac
+https://cotesex.com/lucy/anal_maniac_performance_2/lvap2--600-aac.mp4
+#EXTINF:-1, Anal Mode
+https://cotesex.com/lucy/anal_mode/lvam--600-aac.mp4
+#EXTINF:-1, Femmes Poilues
+https://cotesex.com/lucy/authentiques_femmes_poilues_6/afp6--600-aac.mp4
+#EXTINF:-1, Barracuda
+https://cotesex.com/lucy/baracuda/bf--600-aac.mp4
+#EXTINF:-1, Belles Pel
+https://cotesex.com/lucy/belles_poilues_3/lvbp3--600-aac.mp4
+#EXTINF:-1, Beurettes Sans
+https://cotesex.com/lucy/beurettes_sans_tabous/bsta--600-aac.mp4
+#EXTINF:-1, Couples Pervers
+https://cotesex.com/lucy/couples_pervers/cpf--600-aac.mp4
+#EXTINF:-1, Secretaires
+https://cotesex.com/lucy/des_secretaires_tres_particulieres/lvdstp--600-aac.mp4
+#EXTINF:-1, Airbag
+https://cotesex.com/lucy/double_air_bag/dabf--600-aac.mp4
+#EXTINF:-1, Enormites
+https://cotesex.com/lucy/enormites_de_la_nature_2/lvedln2--600-aac.mp4
+#EXTINF:-1, Hardbody
+https://cotesex.com/lucy/hard_body_musclees_2/hbm2--600-aac.mp4
+#EXTINF:-1, Aux Gros
+https://cotesex.com/lucy/infirmieres_aux_gros_nichons/iagn--600-aac.mp4
+#EXTINF:-1, Secretarie Particular
+https://cotesex.com/lucy/la_secretaire_particuliere/lsp--600-aac.mp4
+#EXTINF:-1, Camioneus
+https://cotesex.com/lucy/les_camionneuses_sont_sympas/lcss--600-aac.mp4
+#EXTINF:-1, Files Trouto
+https://cotesex.com/lucy/les_filles_du_trottoir/lfdt--600-aac.mp4
+#EXTINF:-1, Miches
+https://cotesex.com/lucy/les_miches_de_la_secretaire/lvlmdls--600-aac.mp4
+#EXTINF:-1, Lolitas Infiermer
+https://cotesex.com/lucy/lolitas_infirmieres/lvli--600-aac.mp4
+#EXTINF:-1, Lolitas
+https://cotesex.com/lucy/lolitas_randonneuses/lora--600-aac.mp4
+#EXTINF:-1, Londonienese
+https://cotesex.com/lucy/londoniennes_a_lunettes/lvlal--600-aac.mp4
+#EXTINF:-1, Nenas Peluds
+https://cotesex.com/lucy/nanas_poilues/lvnp--600-aac.mp4
+#EXTINF:-1, Peluds Nenas
+https://cotesex.com/lucy/nanas_poilues_2/lvnp2--600-aac.mp4
+#EXTINF:-1, Peluds
+https://cotesex.com/lucy/nanas_poilues_4/lvnp4--600-aac.mp4
+#EXTINF:-1, Phil di NIce
+https://cotesex.com/lucy/phil_de_nice/pdn--600-aac.mp4
+#EXTINF:-1, Bourdelle
+https://cotesex.com/lucy/quelle_famille_bordel/qfbf--600-aac.mp4
+#EXTINF:-1, Les Blouses
+https://cotesex.com/lucy/sous_les_blouses_des_couturieres/slbc--600-aac.mp4
+#EXTINF:-1, Programmes
+https://cotesex.com/lcl/4_programmes_libertins/4pl--600-aac.mp4
+#EXTINF:-1, Comtese
+https://cotesex.com/lcl/comtesse_pervertie/cpe--600-aac.mp4
+#EXTINF:-1, fievre
+https://cotesex.com/lcl/infirmiere_en_fievre/ief--600-aac.mp4
+#EXTINF:-1, Catain
+https://cotesex.com/lcl/les_folies_d_aurelie_catain/fac--600-aac.mp4
+#EXTINF:-1, Nikky
+https://cotesex.com/lcl/nikki_the_nymph/inntn--600-aac.mp4
+#EXTINF:-1, Nymph
+https://cotesex.com/lcl/nikki_the_nymph_2/ntp--600-aac.mp4
+#EXTINF:-1, Plans reels
+https://cotesex.com/lcl/plans_reels/pre--600-aac.mp4
+#EXTINF:-1, Put Your Ass
+https://cotesex.com/lcl/put_your_ass_on_the_line/fbgn--600-aac.mp4
+#EXTINF:-1, Beast
+https://cotesex.com/lcl/the_beast_within/tbw--600-aac.mp4
+#EXTINF:-1, Titty
+https://cotesex.com/lcl/titty_mania_5/tm5--600-aac.mp4
+#EXTINF:-1, Titsmania
+https://cotesex.com/lcl/titty_mania_8/tm8--600-aac.mp4
+#EXTINF:-1, Tittymania
+https://cotesex.com/lcl/titty_mania_9/tm9--600-aac.mp4
+#EXTINF:-1, ManiaTtty
+https://cotesex.com/lcl/titty_mania_11/tm11--600-aac.mp4
+#EXTINF:-1, Maniatits
+https://cotesex.com/lcl/titty_mania_12/tm12--600-aac.mp4
+#EXTINF:-1, Tetas
+https://cotesex.com/lcl/titty_mania_13/tm13--600-aac.mp4
+#EXTINF:-1, Unaout
+https://cotesex.com/lcl/un_15_aout_au_cap_d_agde/15ao--600-aac.mp4
+#EXTINF:-1, Beatiful
+https://cotesex.com/fred_coppula_prod/20_beautifull_girls/jtcfc20bg--600-aac.mp4
+#EXTINF:-1, Anges perver
+https://cotesex.com/fred_coppula_prod/anges_pervers/ap--600-aac.mp4
+#EXTINF:-1, Assdipp
+https://cotesex.com/fred_coppula_prod/ass_drippers/asd--600-aac.mp4
+#EXTINF:-1, Big tit
+https://cotesex.com/fred_coppula_prod/big_natural_tits13/bnt13--600-aac.mp4
+#EXTINF:-1, Chair
+https://cotesex.com/fred_coppula_prod/chair_fraiche2/cf2--600-aac.mp4
+#EXTINF:-1, Chronosex
+https://cotesex.com/fred_coppula_prod/chrono_sex/jtcfcchs--600-aac.mp4
+#EXTINF:-1, Fuck club
+https://cotesex.com/fred_coppula_prod/fuck_club/jtcfcfc1--600-aac.mp4
+#EXTINF:-1, Fuck Fight
+https://cotesex.com/fred_coppula_prod/fuck_fighter/fuf--600-aac.mp4
+#EXTINF:-1, Fureurs Anal
+https://cotesex.com/fred_coppula_prod/fureurs_anales_2/fa2--600-aac.mp4
+#EXTINF:-1, Anal Fureurs
+https://cotesex.com/fred_coppula_prod/fureurs_anales_3/jtcfcfa3--600-aac.mp4
+#EXTINF:-1, Manteuse
+https://cotesex.com/fred_coppula_prod/la_menteuse/jtcfclam--600-aac.mp4
+#EXTINF:-1, Totale
+https://cotesex.com/fred_coppula_prod/la_totale/lat--600-aac.mp4
+#EXTINF:-1, Petite Vicious
+https://cotesex.com/fred_coppula_prod/les_petites_vicieuses_2/lpv2--600-aac.mp4
+#EXTINF:-1, Prettychicks
+https://cotesex.com/fred_coppula_prod/pretty_chicks/prc--600-aac.mp4
+#EXTINF:-1, Salope
+https://cotesex.com/fred_coppula_prod/salope1/sal--600-aac.mp4
+#EXTINF:-1, Salope2
+https://cotesex.com/fred_coppula_prod/salope2/sal2--600-aac.mp4
+#EXTINF:-1, Salopes
+https://cotesex.com/fred_coppula_prod/salopes_3/jtcfcs3--600-aac.mp4
+#EXTINF:-1, Urbanslut
+https://cotesex.com/fred_coppula_prod/urban_sluts/urs--600-aac.mp4
+#EXTINF:-1, Tentations
+https://cotesex.com/fred_coppula_prod/tentations/ten--600-aac.mp4
+#EXTINF:-1, Scandal
+https://cotesex.com/fred_coppula_prod/scandale/sca--600-aac.mp4
+#EXTINF:-1, Ally
+https://cotesex.com/dorcel/ally/doa--600-aac.mp4
+#EXTINF:-1, Bimboclub
+https://cotesex.com/dorcel/bimbo_club_2/dobc2--600-aac.mp4
+#EXTINF:-1, Libertine
+https://cotesex.com/dorcel/la_libertine/doll--600-aac.mp4
+#EXTINF:-1, Rincon eva
+https://cotesex.com/dorcel/la_rancon_d_eva/dolrde--600-aac.mp4
+#EXTINF:-1, Presidenta
+https://cotesex.com/dorcel/les_nuits_de_la_presidente/dolndlp--600-aac.mp4
+#EXTINF:-1, Cousine
+https://cotesex.com/dorcel/ma_cousine_de_paris/domcdp--600-aac.mp4
+#EXTINF:-1, Mafia
+https://cotesex.com/dorcel/mafia_girl/domg--600-aac.mp4
+#EXTINF:-1, Urgences
+https://cotesex.com/dorcel/urgences/dou--600-aac.mp4
+#EXTINF:-1, Sex Models
+https://cotesex.com/dorcel/yasmine_and_the_sex_models/doyatsm--600-aac.mp4
+#EXTINF:-1, Amazondreams
+https://cotesex.com/woodman/amazonian_dreams/amd--600-aac.mp4
+#EXTINF:-1, Anal Adictis
+https://cotesex.com/woodman/anal_addicts/aaf--600-aac.mp4
+#EXTINF:-1, Ass Invaders
+https://cotesex.com/woodman/ass_invaders/asi--600-aac.mp4
+#EXTINF:-1, Asshole
+https://cotesex.com/woodman/asshole_combustion/asc--600-aac.mp4
+#EXTINF:-1, Babes in Brazil
+https://cotesex.com/woodman/babes_in_brazil/bab--600-aac.mp4
+#EXTINF:-1, Revelations
+https://cotesex.com/woodman/revelations/rev--600-aac.mp4
+#EXTINF:-1, Strangegames
+https://cotesex.com/woodman/strange_games/stg--600-aac.mp4
+#EXTINF:-1, Challenge
+https://cotesex.com/woodman/the_challenge/thc--600-aac.mp4
+#EXTINF:-1, Wide open
+https://cotesex.com/woodman/wide_open/wio--600-aac.mp4
+#EXTINF:-1, Anal Passion
+https://cotesex.com/concorde/anal_passion_1/conap1--600-aac.mp4
+#EXTINF:-1, Casting Lolitas
+https://cotesex.com/concorde/casting_pour_lolitas/cpl--600-aac.mp4
+#EXTINF:-1, Collantss
+https://cotesex.com/concorde/collants_intimes/conci--600-aac.mp4
+#EXTINF:-1, Doctor
+https://cotesex.com/concorde/docteur/do--600-aac.mp4
